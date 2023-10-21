@@ -1,4 +1,14 @@
 package Organism.Animals.Predators;
+public class Wolf extends Predators{
 
-public class Wolf {
+
+    @Override
+    public void move() {
+
+    }
+
+    @Override
+    public void multiply() {
+
+    }
 }

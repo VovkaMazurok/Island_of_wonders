@@ -1,2 +1,6 @@
-package Organism.Animals.Herbivorous;public class Herbivorous {
+package Organism.Animals.Herbivorous;
+
+import Organism.Animals.Animals;
+
+public abstract class Herbivorous extends Animals {
 }

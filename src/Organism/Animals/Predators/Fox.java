@@ -1,2 +1,4 @@
-package Organism.Animals.Predators;public class Fox {
-}
+package Organism.Animals.Predators;
+
+//public class Fox extends Predators{
+//}

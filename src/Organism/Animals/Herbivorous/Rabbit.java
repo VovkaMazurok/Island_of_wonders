@@ -1,4 +1,4 @@
 package Organism.Animals.Herbivorous;
 
-public class Rabbit {
-}
+//public class Rabbit extends Herbivorous{
+//}

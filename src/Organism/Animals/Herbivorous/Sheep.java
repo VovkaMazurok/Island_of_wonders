@@ -1,2 +1,4 @@
-package Organism.Animals.Herbivorous;public class Sheep {
-}
+package Organism.Animals.Herbivorous;
+
+//public class Sheep extends Herbivorous{
+//}

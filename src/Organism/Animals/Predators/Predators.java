@@ -1,2 +1,6 @@
-package Organism.Animals.Predators;public class Predators {
+package Organism.Animals.Predators;
+
+import Organism.Animals.Animals;
+
+public abstract class Predators extends Animals {
 }

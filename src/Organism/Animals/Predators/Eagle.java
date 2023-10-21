@@ -1,4 +1,4 @@
 package Organism.Animals.Predators;
 
-public class Eagle {
-}
+//public class Eagle extends Predators{
+//}
